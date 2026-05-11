@@ -38,16 +38,11 @@ https://www.exchangerate-api.com/
 ---
 ## 📸 Screenshots
 
-| Home Screen | 
-|-------------|
-| ![](Homes.jpeg)| 
-
-### ℹ️ Rates Screen
-![](Rates.jpeg)
-
-### ℹ️ About Screen
-![](About.jpeg)
-
+<p align="center">
+  <img src="Homes.png" width="250">
+  <img src="Rates.png" width="250">
+  <img src="About.png" width="250">
+</p>
 
 
 ## 📦 Dependencies
