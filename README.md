@@ -40,7 +40,7 @@ https://www.exchangerate-api.com/
 
 | Home Screen | 
 |-------------|
-| ![](Home.jpeg)| 
+| ![](Homes.jpeg)| 
 
 ### ℹ️ Rates Screen
 ![](Rates.jpeg)
