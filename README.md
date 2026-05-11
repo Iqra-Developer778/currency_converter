@@ -1,16 +1,50 @@
-# currency_converter
+# 💱 Currency Converter App (Flutter)
 
-A new Flutter project.
+A simple and modern **Flutter Currency Converter App** that uses a live currency exchange API to convert between different currencies in real-time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Live currency conversion using API
+- 💱 Multiple currencies support (USD, PKR, EUR, INR, AED etc.)
+- 🔄 Easy swap between currencies
+- 📊 Live rates screen
+- ℹ️ About page
+- 🎨 Clean and modern UI
+- 📱 Fully responsive Android app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter (Dart)
+- HTTP Package
+- ExchangeRate API
+- Android Studio
+
+---
+
+## 🌐 API Used
+
+This project uses:
+
+ExchangeRate API  
+https://www.exchangerate-api.com/
+
+- Provides real-time currency exchange rates
+- Free tier used for development
+
+---
+
+## 📦 Dependencies
+
+Add this in `pubspec.yaml`:
+
+```yaml
+dependencies:
+  flutter:
+http: ^1.2.0
+
+    sdk: flutter
+  http: ^1.2.0
