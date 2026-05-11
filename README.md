@@ -39,9 +39,9 @@ https://www.exchangerate-api.com/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Homes.png" width="250">
-  <img src="Rates.png" width="250">
-  <img src="About.png" width="250">
+  <img src="Homes.jpeg" width="250">
+  <img src="Rates.jpeg" width="250">
+  <img src="About.jpeg" width="250">
 </p>
 
 
