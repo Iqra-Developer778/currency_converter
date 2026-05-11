@@ -38,9 +38,12 @@ https://www.exchangerate-api.com/
 ---
 ## 📸 Screenshots
 
-| Home Screen | Rates Screen |
-|-------------|--------------|
-| ![](Home.jpeg) | ![](Rates.jpeg) |
+| Home Screen | 
+|-------------|
+| ![](Home.jpeg)| 
+
+### ℹ️ Rates Screen
+![](Rates.jpeg)
 
 ### ℹ️ About Screen
 ![](About.jpeg)
