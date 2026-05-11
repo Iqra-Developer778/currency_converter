@@ -36,6 +36,16 @@ https://www.exchangerate-api.com/
 - Free tier used for development
 
 ---
+## 📸 Screenshots
+
+| Home Screen | Rates Screen |
+|-------------|--------------|
+| ![](Home.jpeg) | ![](Rates.jpeg) |
+
+### ℹ️ About Screen
+![](About.jpeg)
+
+
 
 ## 📦 Dependencies
 
@@ -44,7 +54,6 @@ Add this in `pubspec.yaml`:
 ```yaml
 dependencies:
   flutter:
-http: ^1.2.0
 
     sdk: flutter
   http: ^1.2.0
